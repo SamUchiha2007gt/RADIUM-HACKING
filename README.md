@@ -13,4 +13,8 @@ FEATURES:
 4. Virus generator
 5. Database
 
+ALL THE PAKAGES WILL BE AUTOMATICALLY INSTALLED!
+
 NOTE: This TOOL is for educational purposes only, if you get into trouble I am not responsible. Use this at your own RISK!
+
+![image](https://github.com/user-attachments/assets/a9ac4e23-f636-4af6-9398-bfa3b5d394a1)
