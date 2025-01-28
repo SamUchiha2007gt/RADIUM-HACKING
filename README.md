@@ -1,4 +1,4 @@
-# RADIUM-HACKING
+# RADIUM-HACKING  [UNDER CONSTRUCTION] TOOL WILL BE RELEASED IN A MONTH
 
 ![image](https://github.com/user-attachments/assets/fdf1ee35-46f5-4d9f-8c67-27aa0169bbd3)
 
